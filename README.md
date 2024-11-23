@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy **Jorge Luis Castrejon Tarrillo**
+# ¡Hola! 👋 Soy **Jorge Castrejon**
 
 Soy un estudiante de Ingeniería de Sistemas en la Universidad Toribio Rodríguez De Mendoza apasionado por el desarrollo de software. Tengo experiencia en proyectos que incluyen **videojuegos**, **aplicaciones móviles**, **aplicaciones de escritorio**, **páginas web**, y **diseño de logotipos**.
 
